@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.card-row{
+    /*display: flex;
+    flex-wrap: wrap;*/
+    background-color:aqua;
+}
+.card-col{
+    /*width: 33.33%;*/
+    padding:20px;
+}
+.card-card{
+    background-color:aqua;
+}
+img{
+    /*height: 300px;
+    width: 316px;*/
+
+}
+.card-card h1{
+    text-align: center;
+    
+}
+.card-card p{
+    padding: 20px;
+    text-align: justify;
+    
+}
